@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiumdag.dll 7.14.10.464]
+    Renderer: ATI RADEON XPRESS 200M Series 
+    Vendor:   ATI
+    VRAM:     478 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=1 NativeDepth=1 NativeShadow=0 DF16=1 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Files\Unity\Projects\03\Skillbox game\Skillbox game_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Setting to default shader.
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlur' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeCopy' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlend' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Setting to default shader.
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 524.546997 ms
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1870 -> priority: 1 
